@@ -74,8 +74,6 @@ You can test the API routes using Insomnia.
 ## Demonstration Video
 
 
-
-
 https://user-images.githubusercontent.com/98545619/169570108-d5f8002e-0ce4-4b96-83da-db314a9fb0e5.mp4
 
 
